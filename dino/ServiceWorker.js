@@ -1,9 +1,9 @@
 const cacheName = "Dino-Dino-0.1";
 const contentToCache = [
-    "Build/DinoExport.loader.js",
-    "Build/DinoExport.framework.js.br",
-    "Build/DinoExport.data.br",
-    "Build/DinoExport.wasm.br",
+    "Build/dino.loader.js",
+    "Build/dino.framework.js.br",
+    "Build/dino.data.br",
+    "Build/dino.wasm.br",
     "TemplateData/style.css"
 
 ];
