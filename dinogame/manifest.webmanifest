@@ -1,6 +1,6 @@
 {
-    "name": "Dino",
-    "short_name": "Dino",
+    "name": "dino",
+    "short_name": "dino",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
