@@ -1,9 +1,9 @@
 const cacheName = "dino-dino-0.1";
 const contentToCache = [
     "Build/dinogame.loader.js",
-    "Build/dinogame.framework.js",
-    "Build/dinogame.data",
-    "Build/dinogame.wasm",
+    "Build/dinogame.framework.js.unityweb",
+    "Build/dinogame.data.unityweb",
+    "Build/dinogame.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
